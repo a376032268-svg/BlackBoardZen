@@ -1,0 +1,7 @@
+{
+  "name": "Zen Blackboard",
+  "description": "A realistic, minimalist digital chalkboard with AI superpowers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
